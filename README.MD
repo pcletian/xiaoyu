@@ -13,7 +13,7 @@ Welcome to xiaoyu!
   * 小鱼金融
   * [小鱼论坛](http://bbs.xmfish.com)
 
-## 招聘岗位
+### 招聘岗位
   * [php工程师](https://github.com/pcletian/xiaoyu/wiki/php)
   * 运维工程师
   * UI设计
